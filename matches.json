@@ -3,7 +3,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Maracanã",
-      "imagem": "TODO"
+      "imagem": "https://colunadofla.com/wp-content/uploads/2021/09/maracana-flamengo-x-gremio-estadio-publico-1280x720.jpg"
     },
     "mandante": {
       "nome": "Brasil",
@@ -20,7 +20,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Estádio Centenário",
-      "imagem": "TODO"
+      "imagem": "https://upload.wikimedia.org/wikipedia/commons/9/98/Estadio_Centenario_2021.jpg"
     },
     "mandante": {
       "nome": "Uruguay",
@@ -37,7 +37,7 @@
     "descricao": "Eliminatórias Copa 2022",
     "local": {
       "nome": "Allianz Parque",
-      "imagem": "TODO"
+      "imagem": "https://www.istoedinheiro.com.br/wp-content/uploads/sites/17/2016/12/1412002244152.jpg"
     },
     "mandante": {
       "nome": "Brasil",
